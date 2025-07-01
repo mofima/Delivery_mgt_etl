@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+env/
+venv/
+.dvenv/
+.dbtenv/
+.dbt_venv/
+ENV/
+env.bak/
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# dotenv and config files
+.env
+.env.*
+
+# Credentials
+service_account.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+.code-workspace
+
+# Pytest
+.cache/
+.pytest_cache/
