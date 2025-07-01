@@ -99,6 +99,10 @@ This system transformed messy spreadsheets into a clean, scalable workflow that 
 ✅ Just clear, timely insights for better business decisions
 
 ---
+
+🔗 [Read the full article on Medium](https://medium.com/@jimogeto/erdfrom-chaos-to-clarity-how-i-used-appsheet-python-and-power-bi-to-fix-a-delivery-businesss-7aca98b8591a)
+
+---
 ## 🛠 Requirements
 
 ```bash
